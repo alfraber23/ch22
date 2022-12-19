@@ -1,1 +1,4 @@
 hola esta linea de textro fue agregada desde nano
+esta es la segunda linea que agrego y todo salio bien 
+sigo usando nano
+
